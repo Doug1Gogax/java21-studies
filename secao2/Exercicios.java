@@ -44,17 +44,8 @@ public class Exercicios{
 
        String mensagem = saudacao + "BEM VINDO AO JAVA";
 
-       System.out.println(mensagem);
-
-
-
-      
-
-     
+       System.out.println(mensagem);    
+       
     }
-
-    
-
-
-
 }
+    

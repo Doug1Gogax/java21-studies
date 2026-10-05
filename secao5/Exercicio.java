@@ -102,7 +102,7 @@ public class Exercicio {
         break;
 
       default:
-       break;
+       break ;
     }
 
     scanner.close();
